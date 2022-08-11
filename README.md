@@ -25,5 +25,3 @@ Dataset details
 8: Age: Age (years)
 
 9: Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
-
-hi hello there 
